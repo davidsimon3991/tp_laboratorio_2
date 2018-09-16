@@ -1,0 +1,6 @@
+D:\Documentos\UTN\Programacion Laboratorio II\TP1\Entidades\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Documentos\UTN\Programacion Laboratorio II\TP1\Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Documentos\UTN\Programacion Laboratorio II\TP1\Entidades\Entidades\bin\Debug\Entidades.dll
+D:\Documentos\UTN\Programacion Laboratorio II\TP1\Entidades\Entidades\bin\Debug\Entidades.pdb
+D:\Documentos\UTN\Programacion Laboratorio II\TP1\Entidades\Entidades\obj\Debug\Entidades.dll
+D:\Documentos\UTN\Programacion Laboratorio II\TP1\Entidades\Entidades\obj\Debug\Entidades.pdb
